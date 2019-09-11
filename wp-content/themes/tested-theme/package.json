@@ -1,0 +1,42 @@
+{
+  "name": "testedtheme",
+  "version": "1.0.0",
+  "description": "This is a Test Driven theme for Wordpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Test-Driven",
+    "php",
+    "javascript",
+    "sass"
+  ],
+  "author": "TheDeveloper",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "latest",
+    "boostrap": "^2.0.0",
+    "bootstrap": "^4.3.1",
+    "foundation": "^4.2.1-1",
+    "gsap": "^2.1.3",
+    "gulp-size": "^3.0.0",
+    "jquery": "^3.4.1",
+    "scrollmagic": "^2.0.7"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-phpunit": "^0.26.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-terser": "^1.2.0",
+    "jest": "^24.9.0",
+    "puppeteer": "^1.19.0"
+  }
+}

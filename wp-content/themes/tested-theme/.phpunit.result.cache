@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":182:{a:2:{s:7:"defects";a:2:{s:20:"SampleTest::testName";i:3;s:23:"SampleTest::testBoolean";i:3;}s:5:"times";a:2:{s:20:"SampleTest::testName";d:0.001;s:23:"SampleTest::testBoolean";d:0;}}}
